@@ -81,3 +81,4 @@ Also, a listed repository should be deprecated if:
 # Other languages
 
 - [Pyodide](https://github.com/iodide-project/pyodide): The scientific Python stack, compiled to WebAssembly.
+- [Julia-wasm](https://keno.github.io/julia-wasm/website/): A Julia kernel compiled to WebAssembly, running a REPL in the Browser
